@@ -18,7 +18,7 @@ to populate your db.
 
 Just rename the `.env.example` to `.env` and put your credentials here
 ```
-$ git clone https://github.com/Liinkiing/laravel-blog.git
+$ git clone https://github.com/AhujaSagar/blog.git
 $ cd laravel-blog
 $ composer install
 $ php artisan key:generate
